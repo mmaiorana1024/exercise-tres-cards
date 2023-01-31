@@ -1,5 +1,4 @@
 * {
-  /* outline: 1px solid #f00 !important; */
   font-family: "Rubik", sans-serif;
   color: #808080;
 }
@@ -44,7 +43,6 @@
 .title {
   font-weight: bold;
   margin: 0 15px;
-  /* border: 1px solid blue; */
   padding: 10px 0px;
   font-size: 15px;
   color: black;
